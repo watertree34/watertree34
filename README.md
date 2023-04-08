@@ -2,7 +2,7 @@
 
 I want to develop online content for offline, and I want to make the world a better place through gamification technology.   
 I can develop Game, VR, AR, Metaverse, Graphics project.  
-I majored in Media Engineering and learned programming, computer sciences, graphics, media design, etc.  
+I majored in Media Engineering and learned programming, graphics, computer sciences, media design, etc.  
 Currently, I working as a Unity Client Developer in field of education.  
 
 <!--
