@@ -1,9 +1,9 @@
 ### Hi, I'm Hayoung Noh 👋  
 
-I want to develop online content for offline, and I want to make the world a better place through gamification technology.   
-I can develop Game, VR, AR, Metaverse, Graphics projects.  
+I want to develop online contents for offline, and I want to make the world a better place through gamification technology.   
+I can make Game, VR, AR, Metaverse, Graphics projects.  
 I majored in Media Engineering and learned programming, graphics, computer sciences, media design, etc.  
-Currently, I working as a Unity Client Developer in field of education.  
+I'm currently working on a Unity Client Developer in field of education and growing up EduTech specialist.
 
 <!--
 **watertree34/watertree34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
