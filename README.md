@@ -1,7 +1,7 @@
 ### Hi, I'm Hayoung Noh 👋  
 
 I want to develop online content for offline, and I want to make the world a better place through gamification technology.   
-I can develop Game, VR, AR, Metaverse, Graphics project.  
+I can develop Game, VR, AR, Metaverse, Graphics projects.  
 I majored in Media Engineering and learned programming, graphics, computer sciences, media design, etc.  
 Currently, I working as a Unity Client Developer in field of education.  
 
